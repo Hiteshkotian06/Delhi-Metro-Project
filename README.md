@@ -6,3 +6,5 @@ Documentation
 
 Installation
 import pandas as pd import numpy as np import matplotlib.pyplot as plt import seaborn as sn
+![image](https://github.com/user-attachments/assets/986559ce-3890-46c6-bfad-ab0e07b03552)
+![image](https://github.com/user-attachments/assets/3032876a-a603-4f99-9156-4faa9b390107)
