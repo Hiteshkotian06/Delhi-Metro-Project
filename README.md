@@ -1,5 +1,6 @@
 Delhi Metro Project
 Conducted a Analysis on Delhi Metro which involves data cleaning and extraction. Utilized Plotly and Matplotlib.
+Analysing Delhi traffic, Temperature, Rainfall and some more things.
 
 Documentation
 [Documentation](csv file named train_csv)
